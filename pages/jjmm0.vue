@@ -1,13 +1,11 @@
 <template>
 <div>
-    <div>
-        <h1>Witam ogółem na mojej stronie </h1>
-    </div>
-    <div class="bgImage">
-       
-        </div>
+    <nav>
+        <div id="1">Strona</div>
+        </nav>
+</div>
     
-    </div>
+   
   
 </template>
 <style>
