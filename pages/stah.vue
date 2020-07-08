@@ -5,6 +5,7 @@
 <div class="page">
 <div class="stickybar">
     <ul>
+        <li><a href="..">Comeback na projektsiema</a></li>
         <li><a href="stah">Główna</a></li>
         <li><a href="stah">Forum</a></li>
         <li><a href="stah">Kontakt</a></li>
