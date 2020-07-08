@@ -13,10 +13,10 @@
           rel="noopener noreferrer"
           class="button--green"
         >
-         ooo Documentation o sciane poleci
+         ooo Documentation o sciane poleci ąśąśąś polskie znaki work wiec kox
         </a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="siema"
           target="_blank"
           rel="noopener noreferrer"
           class="button--grey"
@@ -29,7 +29,10 @@
 </template>
 
 <style>
+
+
 .container {
+    background-color:aqua;
   margin: 0 auto;
   min-height: 100vh;
   display: flex;
