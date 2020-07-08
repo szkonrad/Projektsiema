@@ -1,8 +1,13 @@
 <template>
-
-    <header>
+<div>
+    <div>
         <h1>Witam ogółem na mojej stronie </h1>
-    </header>
+    </div>
+    <div class="bgImage">
+       
+        </div>
+    
+    </div>
   
 </template>
 <style>
