@@ -21,6 +21,37 @@ body
 .stickybar{
 
     position: fixed;
-    background-color: black;
+	background-color: black;
+	min-width: 100%;
+	min-height: 5%;
+
+}
+
+.stickybar ul{
+
+margin: 0;
+padding: 0;
+list-style-type: none;
+color: red;
+
+}
+
+.stickybar li{
+
+	border-right: 1px solid #bbb;
+	float: left;
+
+}
+
+.stickybar li a{
+
+	color: white;
+	display: block;
+	background-color: black;
+	padding: 16px 18px;
+	text-align: center;
+	text-decoration: none;
+	display: block;
+	background-color: black;
 
 }
