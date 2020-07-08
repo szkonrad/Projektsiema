@@ -1,9 +1,149 @@
 <template>
 
 
+
 <div class="container">
-    <div class="container">
-        elo tu jednak nie githab D: tylko stah
+<div class="stickybar"><center>kiedys tu dam przyciski kozak co nie?</center> </div>
+
+    <div class="jeszcze nic">
+        XD</br>
+                XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+        XD</br>
+
+
 
 
     </div>
@@ -17,24 +157,31 @@
 
 <style>
 
-body{
-
-background-color: gray;
-
+html,
+body
+{
+	min-width: 500px;
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-image: url("https://i.imgur.com/36PjIIx.jpg");
+	min-height: 100%;
+	min-width: 100%;
+	color: gray;
+	background-color: #1E1E1E;
+	margin: 0;
+	padding: 0;	
 }
 
-
-.container{
-    
-    color: white;
+.stickybar{
+    min-width: 100%;
+   
+    position: fixed;
     background-color: black;
-    min-height: 80%;
-    min-width: 80%;
-    margin-top: 5%;
-    margin-left: 10%;
-    margin-right: 10%;
-
-
 
 }
 
