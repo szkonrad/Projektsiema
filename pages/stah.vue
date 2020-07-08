@@ -1,6 +1,8 @@
 <template>
+
+
 <div class="container">
-    <div class="topbar">
+    <div class="container">
         elo tu jednak nie githab D: tylko stah
 
 
@@ -11,6 +13,8 @@
 
 </template>
 
+
+
 <style>
 
 body{
@@ -20,15 +24,15 @@ background-color: gray;
 }
 
 
-.topbar{
+.container{
     
     color: white;
     background-color: black;
     min-height: 80%;
     min-width: 80%;
     margin-top: 5%;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
 
 
 
@@ -36,3 +40,4 @@ background-color: gray;
 
 
 </style>
+
