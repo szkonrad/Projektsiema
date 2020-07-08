@@ -55,3 +55,9 @@ color: red;
 	background-color: black;
 
 }
+
+.stickybar li a:hover{
+
+	background-color: gray;
+
+}

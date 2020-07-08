@@ -5,9 +5,11 @@
 <div class="container">
 <div class="stickybar">
     <ul>
-        <li><a> XD      </a></li>
-        <li><a> XD      </a></li>
-        <li><a> XD      </a></li>
+        <li><a href="stah">Główna</a></li>
+        <li><a href="stah">Forum</a></li>
+        <li><a href="stah">Kontakt</a></li>
+        <li><a href="stah">Pomoc</a></li>
+
 
     </ul>
  </div>
