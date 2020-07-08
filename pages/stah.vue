@@ -5,11 +5,11 @@
 <div class="page">
 <div class="stickybar">
     <ul>
-        <li><a href="..">Comeback na projektsiema</a></li>
+        <center><li><a href="..">Comeback na projektsiema</a></li>
         <li><a href="stah">Główna</a></li>
         <li><a href="stah">Forum</a></li>
         <li><a href="stah">Kontakt</a></li>
-        <li><a href="stah">Pomoc</a></li>
+        <li><a href="stah">Pomoc</a></li></center>
 
 
     </ul>
@@ -43,4 +43,5 @@
 <style>
 @import url('..\Pliki CSS\stah\styles.css');
 </style>
+
 

@@ -30,10 +30,10 @@ body
 
 .stickybar ul{
 
-margin: 0;
-padding: 0;
-list-style-type: none;
-color: red;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	color: red;
 
 }
 
@@ -46,6 +46,7 @@ color: red;
 
 .stickybar li a{
 
+	
 	color: white;
 	display: block;
 	background-color: black;
@@ -59,6 +60,7 @@ color: red;
 
 .stickybar li a:hover{
 
+	
 	background-color: gray;
 
 }
