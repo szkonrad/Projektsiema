@@ -1,4 +1,3 @@
-
 <template>
   <div class="container">
     <div>
@@ -13,26 +12,27 @@
           rel="noopener noreferrer"
           class="button--green"
         >
-         ooo Documentation o sciane poleci ąśąśąś polskie znaki work wiec kox
+          Documentation
         </a>
         <a
-          href="siema"
+          href="https://github.com/nuxt/nuxt.js"
           target="_blank"
           rel="noopener noreferrer"
           class="button--grey"
         >
-          Ooo github
+          GitHub
         </a>
       </div>
     </div>
   </div>
 </template>
 
+<script>
+export default {}
+</script>
+
 <style>
-
-
 .container {
-    background-color:aqua;
   margin: 0 auto;
   min-height: 100vh;
   display: flex;
