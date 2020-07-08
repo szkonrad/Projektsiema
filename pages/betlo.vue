@@ -1,6 +1,6 @@
 <template>
     <div id="container">
-        <div> <center> Siema tu kox strona </center> </div>
+        <div> <center> Siema tu kox strona Betla </center> </div>
     <div>  <center>     <img src="../images/beetlo/jd.png"> </center>  </div>
 
 
