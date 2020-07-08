@@ -44,4 +44,12 @@
 @import url('..\Pliki CSS\stah\styles.css');
 </style>
 
+<script>
+export default {
+    head:{
+        title: 'stronka here'
+    }
+}
+</script>
+
 
