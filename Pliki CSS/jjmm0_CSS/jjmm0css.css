@@ -1,3 +1,25 @@
 header {
-background-color: blue;
+text-align: center;
+}
+
+/*body 
+{
+    background-image: url("../../images/jjmm0/1023379.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-width: 100%;
+    min-height: 100%;
+    background-position: center;
+    background-attachment: fixed;
+}
+*/
+ .pasek
+{
+    justify-content: center;
+}
+div .naw
+{
+    color: green;
+     display: inline-block;
+    
 }

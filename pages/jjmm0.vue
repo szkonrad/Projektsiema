@@ -1,8 +1,15 @@
 <template>
-
-    <header>
-        <h1>Witam ogółem na mojej stronie </h1>
-    </header>
+<div>
+    <center>
+    <div class="pasek">
+        <div class="naw" id="1">Strona</div>
+        <div class="naw" id="2">Historia</div>
+        <div class="naw" id="3">Obrazy</div>
+        </div>
+        </center>
+</div>
+    
+   
   
 </template>
 <style>
