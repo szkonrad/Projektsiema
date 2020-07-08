@@ -1,6 +1,6 @@
 <template>
     <div id="container">
-        <div> <center> Siema tu kox strona Betla </center> </div>
+        <div> <center>Siema tu kox strona Betla </center> </div>
     <div>  <center>     <img src="../images/beetlo/jd.png"> </center>  </div>
     <br>
         <center> <video controls width="480" height="270" > 
@@ -16,7 +16,7 @@
 
 
 
-    <div> Mixer kurwi serem 
+    <div> Mixer kurwi serem btw
      <br>   <img src="../images/beetlo/StinkyCheese.png"> 
         
     </div>
@@ -27,3 +27,7 @@
 
 
 </template>
+
+<style>
+@import url('..\Pliki CSS\betlo\betlo.css');
+</style>
