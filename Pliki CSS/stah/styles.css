@@ -61,3 +61,17 @@ color: red;
 	background-color: gray;
 
 }
+
+.container{
+
+	display: flex;
+}
+
+.content{
+
+	background-color: red;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 10%;
+
+}

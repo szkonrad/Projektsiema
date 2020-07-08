@@ -2,7 +2,7 @@
 
 
 
-<div class="container">
+<div class="page">
 <div class="stickybar">
     <ul>
         <li><a href="stah">Główna</a></li>
@@ -14,117 +14,66 @@
     </ul>
  </div>
 
-    <div class="jeszcze nic">
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
-        XD<br>
+    <div class="container">
+        <div class="content">
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
+            XD<br>
 
 
-
-
-
-
+        </div>
     </div>
 </div>
     
