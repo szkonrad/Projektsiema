@@ -2,7 +2,7 @@ header {
 text-align: center;
 }
 
-body 
+/*body 
 {
     background-image: url("../../images/jjmm0/1023379.jpg");
     background-repeat: no-repeat;
@@ -11,4 +11,15 @@ body
     min-height: 100%;
     background-position: center;
     background-attachment: fixed;
+}
+*/
+ .pasek
+{
+    justify-content: center;
+}
+div .naw
+{
+    color: green;
+     display: inline-block;
+    
 }

@@ -1,8 +1,12 @@
 <template>
 <div>
-    <nav>
-        <div id="1">Strona</div>
-        </nav>
+    <center>
+    <div class="pasek">
+        <div class="naw" id="1">Strona</div>
+        <div class="naw" id="2">Historia</div>
+        <div class="naw" id="3">Obrazy</div>
+        </div>
+        </center>
 </div>
     
    
