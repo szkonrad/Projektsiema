@@ -16,11 +16,43 @@
 
 
 
-    <div> Mixer kurwi serem btw
+    <div> Mixer kurwi serem btw 
      <br>   <img src="../images/beetlo/StinkyCheese.png"> 
         
     </div>
 
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>Btw mam vipa u Japczana es <img src="../images/beetlo/jd.png"> 
+    <br>Dowód here
+    <br><img src="../images/beetlo/vip.png"> 
 
     </div>
     
