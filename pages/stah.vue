@@ -16,62 +16,18 @@
  </div>
 
     <div class="container">
-        <div class="content">
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
-            XD<br>
+        <div class="contentcontainer">
+            <div class="topbar">
+                Topbar here ofkors <center> tu center jest</center>
+            </div>
+            <div class="sidebar">
+                tutaj sidebar here?
+            </div>
+
+            <div class="content">
+                tutaj kontent-
+            </div>
+            
 
 
         </div>
