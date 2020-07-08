@@ -15,14 +15,53 @@
         >
          ooo Documentation o sciane poleci ąśąśąś polskie znaki work wiec kox
         </a>
+
         <a
           href="siema"
           target="_blank"
           rel="noopener noreferrer"
-          class="button--grey"
+          class="button--green"
         >
-          Ooo github
+         strona siema
         </a>
+
+                <a
+          href="siema"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="button--green"
+        >
+         strona kondzix
+        </a>
+
+         <a
+          href="wpiszswojastrone"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="button--green"
+        >
+         strona jjmm0
+        </a>
+
+        <a
+          href="wpiszswojastrone"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="button--green"
+        >
+         strona betlo
+        </a>
+
+        <a
+          href="stah"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="button--green"
+        >
+         strona stah
+        </a>
+
+
       </div>
     </div>
   </div>
