@@ -17,6 +17,16 @@
 
     <div class="container">
         <div class="contentcontainer">
+
+            <button onclick="myFunction()">
+                
+                
+                Click me
+
+
+            </button>
+
+
             <div class="topbar">
                 Topbar here ofkors <center> tu center jest</center>
             </div>
@@ -49,6 +59,13 @@ export default {
     head:{
         title: 'stronka here'
     }
+
+
+    
+}
+
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Hello World";
 }
 </script>
 

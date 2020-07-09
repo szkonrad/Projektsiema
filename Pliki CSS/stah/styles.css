@@ -60,7 +60,7 @@ body
 
 .stickybar li a:hover{
 
-	
+	transition: all 0.7s;
 	background-color: gray;
 
 }
