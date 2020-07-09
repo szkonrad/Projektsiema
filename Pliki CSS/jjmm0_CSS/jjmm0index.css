@@ -11,6 +11,8 @@ body
     min-height: 100%;
     background-position: center;
     background-attachment: fixed;
+
+    
 }
 
  .pasek
@@ -18,10 +20,12 @@ body
     justify-content: center;
 background-color: rgba(0, 0, 0, 50%);
 border-bottom: 2px solid rgba(0, 0, 0, 60%);
+margin: 0px;
 
 }
 .pasek .naw
 {
+    margin: 0px;
     background-color: rgba(151, 45, 45, 0.514);
     color: rgb(240, 204, 183);
      display: inline-block;
@@ -40,6 +44,7 @@ border-bottom: 2px solid rgba(0, 0, 0, 60%);
     background-color: rgba(180, 36, 36, 0.664);
     color:black;
 }
+/*
 .naw #1
 {
    
@@ -52,3 +57,4 @@ border-bottom: 2px solid rgba(0, 0, 0, 60%);
 {
     
 }
+*/
