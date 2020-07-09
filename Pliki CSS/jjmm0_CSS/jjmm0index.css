@@ -1,6 +1,4 @@
-header {
-text-align: center;
-}
+
 
 body 
 {
@@ -17,6 +15,7 @@ body
 
  .pasek
 {
+        
     justify-content: center;
 background-color: rgba(0, 0, 0, 50%);
 border-bottom: 2px solid rgba(0, 0, 0, 60%);
