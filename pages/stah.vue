@@ -18,13 +18,7 @@
     <div class="container">
         <div class="contentcontainer">
 
-            <button onclick="myFunction()">
-                
-                
-                Click me
 
-
-            </button>
 
 
             <div class="topbar">
@@ -59,13 +53,7 @@ export default {
     head:{
         title: 'stronka here'
     }
-
-
     
-}
-
-function myFunction() {
-  document.getElementById("demo").innerHTML = "Hello World";
 }
 </script>
 
