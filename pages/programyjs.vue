@@ -1,7 +1,5 @@
 <template>
 
-
-
     <div class="page">
         <div class="stickybar">
             <ul>
@@ -23,14 +21,25 @@
         
         
                     <div class="topbar">
-                        TOPBAR <center> tu center jest</center>
+                            <div class="topbarzawartosc">
+                                <p><marquee>Tekst</marquee></p>
+                            </div>
                     </div>
                     <div class="sidebar">
-                        Sidebar
+                        <div class="programyjs">
+                            <ul>
+                                
+                                <li><a>Jakiś program</a></li>
+                                <li><a>Jakiś program</a></li>
+                                <li><a>Jakiś program</a></li>
+                                <li><a>Jakiś program</a></li>
+                                <li></li>
+                            </ul>
+                        </div>
                     </div>
         
                     <div class="content">
-                        ĄŚĄŚĄŚĄPOLSKIE ZNAKI
+                        cześć
                     </div>
                     
         
@@ -41,21 +50,10 @@
 
 
 
+
+
 </template>
-
-
 
 <style>
 @import url('..\Pliki CSS\stah\styles.css');
 </style>
-
-<script>
-export default {
-    head:{
-        title: 'stronka here'
-    }
-    
-}
-</script>
-
-
