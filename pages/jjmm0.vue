@@ -4,7 +4,7 @@
     <div class="pasek">
         <a href="..\jjmm0historia"><span class="naw" id="1">Historia</span></a>
         <a href=".."><span class="naw" id="2">Strona Główna</span></a>
-        <span class="naw" id="3">Obrazy</span>
+        <a href="..\jjmm0obrazy"><span class="naw" id="3">Obrazy</span></a>
         </div>
         </center>
 </div>
