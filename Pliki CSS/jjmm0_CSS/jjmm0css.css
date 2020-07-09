@@ -2,7 +2,7 @@ header {
 text-align: center;
 }
 
-/*body 
+body 
 {
     background-image: url("../../images/jjmm0/1023379.jpg");
     background-repeat: no-repeat;
@@ -12,14 +12,44 @@ text-align: center;
     background-position: center;
     background-attachment: fixed;
 }
-*/
+
  .pasek
 {
     justify-content: center;
+background-color: rgba(0, 0, 0, 50%);
+border-bottom: 2px solid rgba(0, 0, 0, 60%);
+
 }
-div .naw
+.pasek .naw
 {
-    color: green;
+    background-color: rgba(151, 45, 45, 0.514);
+    color: rgb(240, 204, 183);
      display: inline-block;
+    width: 140px;
+    line-height: 60px;
+    font-size: 18px;
+    border-left: 2px solid rgba(0, 0, 0, 70%);
+    border-right: 2px solid rgba(0, 0, 0, 70%);
+    overflow:visible;
+    opacity:100%;
+    transition: 0.5s;
+
+}
+.pasek .naw:hover
+{
+    background-color: rgba(180, 36, 36, 0.664);
+    color:black;
+}
+.naw #1
+{
+   
+
+}
+.naw #2
+{
+    
+}
+.naw #3
+{
     
 }

@@ -36,7 +36,7 @@
 
          <a
           href="jjmm0"
-          target="_blank"
+          target="_self"
           rel="noopener noreferrer"
           class="button--green"
         >
